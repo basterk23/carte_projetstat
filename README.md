@@ -1,4 +1,4 @@
-# carte_projetstat
+# Carte interactive de l'impact régional sur le SJL/SRI
 
 Dans le cadre de notre projet statistique nous avons mis au point une carte interactive peremttant de mieux voir l'impact de la région de résidence sur le SJL (Social Jet Lag) et le SRI (Sleep Regularity Index).
 
